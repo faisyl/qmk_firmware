@@ -596,6 +596,7 @@
                     "type": "string",
                     "enum": [
                         "aw20216s",
+                        "apa102",
                         "custom",
                         "is31fl3218",
                         "is31fl3236",
